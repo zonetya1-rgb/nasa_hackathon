@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "YzxsLGsXCuZRka6j6fS8kxt2SPnwbsZtsvfnw2Kr"
+API_KEY = ""
 url = "https://api.nasa.gov/neo/rest/v1/feed"
 
 params = {

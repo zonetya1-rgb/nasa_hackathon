@@ -1,7 +1,7 @@
 import requests
 import os
 
-API_KEY = "YOUR_KEY_HERE"
+API_KEY = ""
 rover = "curiosity"
 save_folder = "mars_photos"
 
