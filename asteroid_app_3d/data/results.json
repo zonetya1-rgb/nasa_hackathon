@@ -1,0 +1,6 @@
+[
+  {"id": "3645193", "name": "(2013 OY3)", "date": "2026-09-08", "diameter_m": 65.77, "speed_kph": 24151.67, "miss_distance_km": 16552738.63, "hazardous": false, "mass_kg_est": 4.469e+08, "kinetic_energy_j_est": 1.006e+16, "gravitational_force_n_est": 6.502e+02, "tnt_equivalent_megatons_est": 2.4039},
+  {"id": "3729838", "name": "(2015 TC145)", "date": "2026-09-08", "diameter_m": 124.18, "speed_kph": 65864.98, "miss_distance_km": 64097841.16, "hazardous": false, "mass_kg_est": 3.008e+09, "kinetic_energy_j_est": 5.034e+17, "gravitational_force_n_est": 2.918e+02, "tnt_equivalent_megatons_est": 120.3157},
+  {"id": "3831185", "name": "(2018 TP)", "date": "2026-09-08", "diameter_m": 228.06, "speed_kph": 37861.65, "miss_distance_km": 47760275.42, "hazardous": false, "mass_kg_est": 1.863e+10, "kinetic_energy_j_est": 1.030e+18, "gravitational_force_n_est": 3.256e+03, "tnt_equivalent_megatons_est": 246.2704},
+  {"id": "3989148", "name": "(2020 BJ6)", "date": "2026-09-08", "diameter_m": 37.50, "speed_kph": 23578.24, "miss_distance_km": 62524282.55, "hazardous": false, "mass_kg_est": 8.284e+07, "kinetic_energy_j_est": 1.777e+15, "gravitational_force_n_est": 8.446e+00, "tnt_equivalent_megatons_est": 0.4247}
+]
